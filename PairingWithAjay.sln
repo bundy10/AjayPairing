@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairingWithAjay", "PairingWithAjay\PairingWithAjay.csproj", "{294E836F-1166-4249-881F-1683DE72D5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairingWithAjayTests", "PairingWithAjayTests\PairingWithAjayTests.csproj", "{80821655-BF38-4B8C-AA55-EA19B26E3439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294E836F-1166-4249-881F-1683DE72D5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294E836F-1166-4249-881F-1683DE72D5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294E836F-1166-4249-881F-1683DE72D5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294E836F-1166-4249-881F-1683DE72D5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80821655-BF38-4B8C-AA55-EA19B26E3439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80821655-BF38-4B8C-AA55-EA19B26E3439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80821655-BF38-4B8C-AA55-EA19B26E3439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80821655-BF38-4B8C-AA55-EA19B26E3439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
